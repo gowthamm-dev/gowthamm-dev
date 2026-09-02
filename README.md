@@ -28,5 +28,5 @@ Now building the model layer too, in the open.
 | Agent with guardrails | Queued | `Python` `FastAPI` |
 
 <p align="center">
-<sub>`Python` `Django` `FastAPI` `Kafka` `Redis` `PostgreSQL` `React` `TypeScript` `Docker`</sub>
+<sub><code>Python</code> <code>Django</code> <code>FastAPI</code> <code>Kafka</code> <code>Redis</code> <code>PostgreSQL</code> <code>React</code> <code>TypeScript</code> <code>Docker</code></sub>
 </p>
