@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="1200" height="280" role="img" aria-labelledby="title-dark">
+  <title id="title-dark">Gowtham M — Senior Backend Engineer, Infrastructure for AI Systems</title>
+  <defs>
+    <clipPath id="clip-dark">
+      <rect x="0" y="0" width="1200" height="280" rx="12"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#clip-dark)">
+    <rect x="0" y="0" width="1200" height="280" fill="#0E1317"/>
+    <rect x="0.75" y="0.75" width="1198.5" height="278.5" rx="11.25" fill="none" stroke="#242D34" stroke-width="1.5"/>
+
+    <text x="58" y="122" font-family="'IBM Plex Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="52" font-weight="600" fill="#DEE5EA">Gowtham M</text>
+    <text x="60" y="156" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" fill="#E0A44C">Senior Backend Engineer — Infrastructure for AI Systems</text>
+    <text x="60" y="188" font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#93A2AC">6+ years under AI systems. Now building the model layer, in the open.</text>
+
+    <!-- decorative build-queue motif -->
+    <g font-family="'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" fill="#64737D">
+      <text x="780" y="79">01</text>
+      <rect x="814" y="55" width="230" height="10" rx="3" fill="#38454F"/>
+      <rect x="814" y="75" width="170" height="7" rx="2.5" fill="#242D34"/>
+      <circle cx="1128" cy="70" r="4" fill="#E0A44C"/>
+
+      <line x1="780" y1="105" x2="1144" y2="105" stroke="#242D34"/>
+      <text x="780" y="149">02</text>
+      <rect x="814" y="125" width="190" height="10" rx="3" fill="#38454F"/>
+      <rect x="814" y="145" width="140" height="7" rx="2.5" fill="#242D34"/>
+      <circle cx="1128" cy="140" r="4" fill="#64737D"/>
+
+      <line x1="780" y1="175" x2="1144" y2="175" stroke="#242D34"/>
+      <text x="780" y="219">03</text>
+      <rect x="814" y="195" width="250" height="10" rx="3" fill="#38454F"/>
+      <rect x="814" y="215" width="110" height="7" rx="2.5" fill="#242D34"/>
+      <circle cx="1128" cy="210" r="4" fill="#64737D"/>
+    </g>
+  </g>
+</svg>
